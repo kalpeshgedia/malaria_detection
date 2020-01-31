@@ -1,0 +1,4 @@
+Malaria Detection
+
+Automatic detection of Malaria from blood smear images can go a long way in our battle against this deadly disease. 
+In this project, using deep learning, we will try to predict whether the sample is from an infected person
